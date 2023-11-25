@@ -1,0 +1,4 @@
+cedula,edad,estado,codigoVehiculo
+097283716,20,D,23
+382738475,30,D,20
+384737281,28,N,18

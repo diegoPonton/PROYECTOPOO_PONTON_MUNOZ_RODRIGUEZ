@@ -1,0 +1,6 @@
+numeroServicio,tipoEncomienda,cantidadProductos,peso,subtotal
+27382,MEDICINA,4,4.67,8
+00408,DOCUMENTOS,2,89.3,6.0
+14006,DOCUMENTOS,6,65.0,10.0
+03234,OTROS,2,34.2,6.0
+53826,MEDICINA,2,89.3,6.0

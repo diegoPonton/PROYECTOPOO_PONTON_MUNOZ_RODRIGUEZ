@@ -1,0 +1,4 @@
+codigoVehiculo,placa,modelo,marca,tipo
+23,GSV7283,CX3,Toyota,A
+20,HSV7643,PAX,Yamaha,M
+18,JAP8642,SOP,Kawasaki,M

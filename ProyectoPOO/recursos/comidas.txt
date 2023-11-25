@@ -1,0 +1,4 @@
+numeroServicio,cedulaCliente,cedulaConductor,restaurante,subtotal
+28392,McDonalds,27382717,283728172,McDonalds,20
+70862,0923547362,382738475,Burger King,86.95
+42673,0923547362,382738475,Subway,86.95

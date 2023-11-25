@@ -1,0 +1,8 @@
+numeroServicio, tipoServicio, cedulaCliente, nombreConductor, desde, hasta, Fecha, hora
+28372,T,0945698598,María Pérez,MiCasa,TuCasa,2/02/2023, 22:00
+42888,T,0923547362,María Pérez,A,B,23/11/2023,21:23
+70862,C,0923547362,Carlos Andrade,C,D,2/2/2023,23:11
+00408,E,0923547362,Carlos Andrade,E,R,21/12/2023,11:11
+16260,T,0923547362,María Pérez,ashags,ahsg,10/10/2023,20:10
+42673,C,0923547362,Carlos Andrade,asjgh,ash,23/02/2023,23:11
+53826,E,0923547362,Carlos Andrade,jash,jash,009/9/2023,13:12

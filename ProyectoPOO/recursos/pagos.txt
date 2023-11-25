@@ -1,0 +1,2 @@
+idPago, FechaPago, numeroServicio, formaPago, cedulaCliente, subtotal, valorPagar
+373, 3/11/2023, 28383, TC, 0993748372, 2.50, 2.87

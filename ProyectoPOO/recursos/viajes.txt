@@ -1,0 +1,4 @@
+numeroServicio, numeroPasajeros, distanciaKM, subtotal
+28372,2,5,2.50
+42888,1,12,6.0
+16260,2,33,16.5

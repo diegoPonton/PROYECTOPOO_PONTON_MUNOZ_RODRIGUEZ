@@ -1,0 +1,7 @@
+cedula,nombre,apellido,user,contraseña,celular,tipoUsuario
+0923547362,Luis,Mancero,lmancero,qwerty,0983637223,C
+0945698598,Marco,Cárdenas,mcarden,abcde,0975342533,C
+097283716,María,Pérez,mperez,12345,0983637223,R
+382738475,Carlos,Andrade,candrade,12345,0983637223,R
+384737281,José,Gómez,jgomez,12345,0983637223,R
+283772827,Ana,Alcívar,aalcivar,12345,0983637223,C
